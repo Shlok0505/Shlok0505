@@ -52,9 +52,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlok0505&theme=react-light" alt="Shlok Kamble's Contribution Graph" width="900">
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=Shlok0505&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlok0505&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Shlok Kamble's Contribution Graph" width="900">
 </a>
 
 </div><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shlok0505&show_icons=true&locale=en" alt="Shlok0505" /></p>
