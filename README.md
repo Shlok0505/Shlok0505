@@ -28,16 +28,15 @@
 <h2>Connect with Me</h2> 
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:2024.rajk@isu.ac.in)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/shlok-kamble-bb2152333)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:2024.shlokk@isu.ac.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shlok-kamble-bb2152333/)
 
 
 
 <p align="center">
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,c,cpp,html,css,anaconda,linkedin,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,vscode,git,github" />
 <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
   </a>
 
@@ -49,7 +48,7 @@
 </div>
 <h2>My contribution</h2>
 
-<img src="https://raw.githubusercontent.com/Rajkoli145/snake1/refs/heads/main/github-user-contribution-3.svg" alt="GitHub Snake" width="4000">
+<img src="https://raw.githubusercontent.com/Shlok0505/snake/refs/heads/main/github-user-contribution-3.svg" alt="GitHub Snake" width="4000">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
