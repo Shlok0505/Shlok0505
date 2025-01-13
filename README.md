@@ -57,7 +57,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlok0505&theme=react-light" alt="Shlok Kamble's Contribution Graph" width="900">
 </a>
 
+</div><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shlok0505&show_icons=true&locale=en" alt="Shlok0505" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shlok0505&" alt="Shlok0505" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shlok0505&show_icons=true&locale=en&layout=compact" alt="Shlok0505" /></p>
 
 
-</div>
+
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shlok0505" alt="Shlok0505" /></a></p>
+
 
