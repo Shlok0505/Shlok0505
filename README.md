@@ -48,19 +48,16 @@
 </div>
 <h2>My contribution</h2>
 
-<img src="https://raw.githubusercontent.com/Shlok0505/snake/refs/heads/main/github-user-contribution(1)-3.svg" alt="GitHub Snake" width="4000">
+<img src="https://github.com/Shlok0505/snake/blob/main/github-user-contribution%20(1).svg" alt="GitHub Snake" width="4000">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkoli145&theme=react-dark" alt="Raj Koli's Contribution Graph" width="900">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlok0505&theme=react-light" alt="Shlok Kamble's Contribution Graph" width="900">
 </a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajkoli145&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajkoli145&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajkoli145&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajkoli145&theme=solarized&utcOffset=5.3)
+
 
 </div>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rajkoli145" alt="Rajkoli145" /></a></p>
+
